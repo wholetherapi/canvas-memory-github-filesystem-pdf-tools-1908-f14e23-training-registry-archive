@@ -102,5 +102,6 @@
       "department_code": "ADM-COMP",
       "required_for_role": true
     }
-  ]
+  ],
+  "superseded_by_repository": "canvas-memory-github-filesystem-pdf-tools-1908-f14e23-role-qualification-registry"
 }
