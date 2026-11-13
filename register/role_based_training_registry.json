@@ -1,0 +1,106 @@
+{
+  "register_code": "CIG-LRN-RB-05",
+  "status": "ARCHIVED",
+  "effective_cycle": "FY2025",
+  "role_level": "FSE-3",
+  "role_name": "Field Service Engineer III",
+  "owner": "Crestline Industrial Group - Field Readiness Office",
+  "superseded_by": "CIG-LRN-RB-07",
+  "modules": [
+    {
+      "module_code": "OAC-101",
+      "department_code": "OPS-AC",
+      "required_for_role": true
+    },
+    {
+      "module_code": "OAC-204",
+      "department_code": "OPS-AC",
+      "required_for_role": false
+    },
+    {
+      "module_code": "OAC-311",
+      "department_code": "OPS-AC",
+      "required_for_role": true
+    },
+    {
+      "module_code": "OAC-402",
+      "department_code": "OPS-AC",
+      "required_for_role": true
+    },
+    {
+      "module_code": "FSF-110",
+      "department_code": "FLD-SAF",
+      "required_for_role": false
+    },
+    {
+      "module_code": "FSF-225",
+      "department_code": "FLD-SAF",
+      "required_for_role": true
+    },
+    {
+      "module_code": "FSF-330",
+      "department_code": "FLD-SAF",
+      "required_for_role": false
+    },
+    {
+      "module_code": "FSF-440",
+      "department_code": "FLD-SAF",
+      "required_for_role": true
+    },
+    {
+      "module_code": "MTC-120",
+      "department_code": "MNT-CERT",
+      "required_for_role": false
+    },
+    {
+      "module_code": "MTC-210",
+      "department_code": "MNT-CERT",
+      "required_for_role": true
+    },
+    {
+      "module_code": "MTC-315",
+      "department_code": "MNT-CERT",
+      "required_for_role": false
+    },
+    {
+      "module_code": "MTC-420",
+      "department_code": "MNT-CERT",
+      "required_for_role": true
+    },
+    {
+      "module_code": "GCT-101",
+      "department_code": "GRD-CTL",
+      "required_for_role": true
+    },
+    {
+      "module_code": "GCT-204",
+      "department_code": "GRD-CTL",
+      "required_for_role": false
+    },
+    {
+      "module_code": "GCT-310",
+      "department_code": "GRD-CTL",
+      "required_for_role": true
+    },
+    {
+      "module_code": "GCT-420",
+      "department_code": "GRD-CTL",
+      "required_for_role": false
+    },
+    {
+      "module_code": "ADC-105",
+      "department_code": "ADM-COMP",
+      "required_for_role": true
+    },
+    {
+      "module_code": "ADC-220",
+      "department_code": "ADM-COMP",
+      "required_for_role": false
+    },
+    {
+      "module_code": "ADC-330",
+      "department_code": "ADM-COMP",
+      "required_for_role": true
+    }
+  ]
+}
